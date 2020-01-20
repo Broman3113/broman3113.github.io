@@ -1,0 +1,30 @@
+body {
+    display: block;
+    max-width: 1170px;
+    margin: 0 auto;
+    background-color: #CC9966;
+}
+
+h1 {
+    display: block;
+    width: 250px;
+    border: 2px solid black;
+	margin: auto;
+	text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+span{
+	text-align: justify;
+}
+strong{
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+.navigation {
+	display: inline-block;
+	border: 2px solid yellow;
+}
