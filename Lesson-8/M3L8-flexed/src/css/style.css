@@ -1,0 +1,19 @@
+*{
+	box-sizing: border-box;
+}
+
+.advantages{
+	font-size: 36px;
+	margin: 140px 0px;
+}
+
+p{
+	margin-top: 40px;
+}
+
+.flex-content{
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+	flex-wrap: wrap;
+}
