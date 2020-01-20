@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+}
+
+.section {
+    max-width: 930px;
+    margin: auto;
+    text-align: center;
+}
+
+.main-header {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 24px;
+    color: #333333;
+    padding-bottom: 150px;
+}
+
+.main-header span {
+    margin-top: 100px;
+    display: block;
+    font-weight: 400;
+}
+
+.main-header strong {
+    text-transform: uppercase;
+}
+
+.main{
+	padding-top: 80px;
+	text-align: center;
+}
+
+.video {
+    width: 546px;
+    height: 306px;
+}
+
+.video,
+.form {
+    display: inline-block;
+    vertical-align: top;
+    height: 306px;
+}
+
+.form {
+    border: 5px solid #2727d9;
+    padding-bottom: 27px;
+    width: 340px;
+    margin-left: 22px;
+}
+
+.form input {
+    font-size: 18px;
+    border: 1px solid #333333;
+    padding: 17px 18px;
+    margin-bottom: 9px;
+    width: 295px;
+    height: 49px;
+  
+}
+.form-text{
+	margin-top: 32px;
+	margin-bottom: 41px;
+	font-size: 20px;
+	font-weight: 900;
+	color:#484848;
+}
+.instruction-btn{
+	border: none;
+	color: #fff;
+	font-size: 18px;
+	background-color: #3c3cdd;
+	padding: 23px 58px;
+}
+.adv{
+	padding-bottom: 87px;
+	font-size:24px;
+	color: #333333;
+	font-weight: 900;
+	line-height: 1.5;
+	text-transform: uppercase;
+}
+
+
+.column{
+	display: inline-block;
+	margin: 10px 50px;
+	width: 123px;
+}
+.column p{
+	padding-top: 10px;
+	color: #333;
+	font-style: 16px;
+	font-weight: 900;
+}
+
+.feature{
+	margin-bottom: 100px;
+}
+
+.faces img{
+	display: inline-block;
+	width: 215px;
+	height: 215px;
+	margin:5px;
+}
+
+.our-clients h2{
+	margin-top: 100px;
+	margin-bottom: 70px;
+	color: #333333;
+	font-weight: 900;
+	line-height: 1.5;
+	text-transform: uppercase;
+}
