@@ -29,3 +29,9 @@
 
 [Lesson 11](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-11/ "Сниппеты.
 ") Сниппеты.
+
+[Lesson 12](https://github.com/Broman3113/broman3113.github.io/ "Хостинг от GitHub.
+") Хостинг от GitHub.
+
+[Lesson 13](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-13 "Адаптивная верстка.
+") Адаптивная верстка.
