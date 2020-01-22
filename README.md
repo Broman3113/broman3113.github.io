@@ -38,3 +38,6 @@
 
 [Module 5 Part 1](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part1 "Подготовка файлов. Верстка шапки сайта.
 ") Подготовка файлов. Верстка шапки сайта.
+
+[Lesson 14](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-14 "Подключение шрифтов.
+") Подключение шрифтов.
