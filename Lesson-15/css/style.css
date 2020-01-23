@@ -1,0 +1,116 @@
+body {
+	margin: 0;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+
+h2 {
+	font-weight: 100;
+}
+
+.container {
+	max-width: 900px;
+	margin: auto;
+	padding: 15px;
+}
+.image {
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	height: 200px;
+}
+.image-one {
+	background: url(../img/1.jpg) center no-repeat;
+	background-size: cover;
+}
+.image-two {
+	background: url(../img/2.jpg) center no-repeat;
+	background-size: cover;
+}
+.image-three {
+	background: url(../img/3.jpg) center no-repeat;
+	background-size: cover;
+}
+.image-four {
+	background: url(../img/4.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.button-one {
+	border: none;
+	font-weight: 700;
+	font-size: 14px;
+ color: white;
+ padding: .8em 1em calc(.8em + 3px);
+ border-radius: 3px;
+ background: rgb(64,199,129);
+ box-shadow: -3px -4px rgb(53,167,110) inset;
+ transition: 0.2s;
+ outline: none;
+}
+.button-one:hover{
+	box-shadow: -3px -4px rgb(23,137,80) inset;
+	background: rgb(34,169,99);
+}
+.button-one:active{
+	box-shadow: -1px -1px rgb(23,137,80) inset;
+}
+.button-two {
+	display: inline-block;
+ color: white;
+ padding: .5em 2em;
+ border: none;
+ border-width: 2px 0;
+ border-style: solid none;
+ border-color: #FDBE33 #000 #D77206;
+ border-radius: 6px;
+ background: linear-gradient(#F3AE0F, #E38916) #E38916;
+  outline: none;
+ transition: 0.2s;
+}
+.button-two:hover{
+	padding: 0.7em 2.2em;
+}
+.button-two:active{
+	 padding: .5em 2em;
+}
+
+#one div{
+	transition: all 0.2s;
+}
+
+#one div:hover{
+	filter: brightness(0.5);
+}
+.button3{
+	left:50%;
+	position:absolute;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	line-height: 20px;
+	background-color:white;
+	padding: 3px, 9px;
+	margin: 10px;
+	border: 10px solid white;
+	border-radius: 100px;
+	box-shadow: 4px 4px 5px #000000;
+	text-decoration:none;
+	color:red;
+	width:150px;
+	height:20px;
+	display:block;
+	font-size:20px;	
+}
+.button3:hover{
+	background-color:red;
+	border: 10px solid red;
+	color:white;
+	transition:0.5s;
+}
+.button3:active{
+	box-shadow: 2px 2px 5px #000000;
+	background-color:#b01030;
+	border: 10px solid #b01030;
+	color:white;
+	transition:0.1s;
+}
