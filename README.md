@@ -53,3 +53,6 @@
 
 [Lesson 16](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-16 "Слайдер на сайте.
 ") Слайдер на сайте.
+
+[Module 5 Part 4](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part4 "Верстка блока с преимуществами. Слайдер.
+") Верстка блока с преимуществами. Слайдер.
