@@ -50,3 +50,6 @@
 
 [Module 5 Part 3](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part3 "Эффекты при наведении и адаптив первого экрана.
 ") Эффекты при наведении и адаптив первого экрана.
+
+[Lesson 16](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-16 "Слайдер на сайте.
+") Слайдер на сайте.
