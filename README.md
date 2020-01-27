@@ -56,3 +56,6 @@
 
 [Module 5 Part 4](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part4 "Верстка блока с преимуществами. Слайдер.
 ") Верстка блока с преимуществами. Слайдер.
+
+[Lesson 17](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-17 "Всплывающие окна.
+") Всплывающие окна.
