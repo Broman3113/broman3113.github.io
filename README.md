@@ -59,3 +59,6 @@
 
 [Lesson 17](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-17 "Всплывающие окна.
 ") Всплывающие окна.
+
+[Module 5 Part 5](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part5 "Верстка всплывающих окон на сайте.
+") Верстка всплывающих окон на сайте.
