@@ -65,3 +65,6 @@
 
 [Lesson 18](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-18Col "Табы и аккордеон на сайте.
 ") Табы и аккордеон на сайте.
+
+[Module 5 Part 6](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part6 "Верстка блока с ценами.
+") Верстка блока с ценами.
