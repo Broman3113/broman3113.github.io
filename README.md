@@ -62,3 +62,6 @@
 
 [Module 5 Part 5](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part5 "Верстка всплывающих окон на сайте.
 ") Верстка всплывающих окон на сайте.
+
+[Lesson 18](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-18Col "Табы и аккордеон на сайте.
+") Табы и аккордеон на сайте.
