@@ -71,3 +71,6 @@
 
 [Lesson 19](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-19Col "Анимация на CSS3.
 ") Анимация на CSS3.
+
+[Module 6 Part 7](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part7 "Верстка блока с отзывами.
+") Верстка блока с отзывами.
