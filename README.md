@@ -68,3 +68,6 @@
 
 [Module 5 Part 6](https://github.com/Broman3113/broman3113.github.io/tree/master/Module5Part6 "Верстка блока с ценами.
 ") Верстка блока с ценами.
+
+[Lesson 19](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-19Col "Анимация на CSS3.
+") Анимация на CSS3.
