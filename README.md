@@ -80,3 +80,6 @@
 
 [Module 6 Part 8](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part8 "Доверстали блок с отзывами.
 ") Доверстали блок с отзывами.
+
+[Lesson 21](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-21 "Parallax эффект для сайта.
+") Parallax эффект для сайта.
