@@ -90,5 +90,8 @@
 [Lesson 22](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-22 "Гео-карты для сайта.
 ") Гео-карты для сайта.
 
+[Module 6 Part 9](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part9 "Верстаем схему работы и все включено.
+") Верстаем схему работы и все включено.
+
 [Module 6 Part10](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part10 "Верстаем блок "Развеиваем сомнения".
 ") Верстаем блок "Развеиваем сомнения".
