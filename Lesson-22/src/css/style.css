@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+.header-map {
+    height: 100vh;
+}
+
+.header-contacts {
+    position: absolute;
+    display: inline-block;
+    top: 0;
+    background-color: red;
+    text-align: center;
+    height: 450px;
+    color: #fff;
+    padding: 4.2rem 5rem;
+}
+
+.header-contacts h3 {
+    font-size: 30px;
+    padding-bottom: 1rem;
+}
+
+.header-contacts p {
+    font-size: 18px;
+    padding-bottom: 0.7rem;
+}
+
+.header-contacts a {
+    font-size: 18px;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.logo img {
+    display: inline-block;
+    float: left;
+    padding-right: 1rem;
+}
+
+.logo p {
+    text-align: left;
+}
+
+.header-footer {
+	display: table;
+    text-align: center;
+    max-height: 10rem;
+    overflow: hidden;
+    vertical-align: middle;
+    position: relative
+}
+
+.header-footer p{
+    align-items: center;
+    margin: 0;
+}
+.middle{
+	padding-top: 1rem;
+	font-size: 14px;
+	color: #666666;
+}
