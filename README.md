@@ -92,3 +92,6 @@
 
 [Module 6 Part10](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part10 "Верстаем блок Развеиваем сомнения.
 ") Верстаем блок Развеиваем сомнения.
+
+[Module 6 Part11](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part11 "Верстаем блок Материалы.
+") Верстаем блок Материалы.
