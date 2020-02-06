@@ -96,5 +96,5 @@
 [Module 6 Part11](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part11 "Верстаем блок Материалы.
 ") Верстаем блок Материалы.
 
-[Module 6 Part12](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part12 "Верстаем блок Экскурси" и Доп.услуги.
-") Верстаем блок Экскурси" и Доп.услуги.
+[Module 6 Part12](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part12 "Верстаем блок Экскурси и Доп.услуги.
+") Верстаем блок Экскурси и Доп.услуги.
