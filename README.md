@@ -98,3 +98,6 @@
 
 [Module 6 Part12](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part12 "Верстаем блок Экскурси и Доп.услуги.
 ") Верстаем блок Экскурси и Доп.услуги.
+
+[Module 6 Part13](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part13 "Верстаем блок Контакты и Подвал.
+") Верстаем блок Контакты и Подвал.
