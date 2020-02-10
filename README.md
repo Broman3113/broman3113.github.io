@@ -101,3 +101,6 @@
 
 [Module 6 Part13](https://github.com/Broman3113/broman3113.github.io/tree/master/Module6Part13 "Верстаем блок Контакты и Подвал.
 ") Верстаем блок Контакты и Подвал.
+
+[Lesson 26](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-26 "Как делаются многостраничные сайты.
+") Как делаются многостраничные сайты.
