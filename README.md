@@ -104,3 +104,7 @@
 
 [Lesson 26](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-26 "Как делаются многостраничные сайты.
 ") Как делаются многостраничные сайты.
+
+[Lesson 28](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-28 "Тестирование верстки.
+") Тестирование верстки.
+
