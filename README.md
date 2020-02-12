@@ -108,3 +108,6 @@
 [Lesson 28](https://github.com/Broman3113/broman3113.github.io/tree/master/Lesson-28 "Тестирование верстки.
 ") Тестирование верстки.
 
+[Module 7 Part14](https://github.com/Broman3113/broman3113.github.io/tree/master/Module7Part14 "Анимация, маска и админка.
+") Анимация, маска и админка.
+
